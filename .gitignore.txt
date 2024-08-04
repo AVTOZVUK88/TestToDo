@@ -1,0 +1,5 @@
+ToDoENV
+fastapi
+psycopg2
+pydantic
+uvicorn
